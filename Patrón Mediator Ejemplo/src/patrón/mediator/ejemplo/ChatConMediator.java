@@ -16,6 +16,6 @@ public class ChatConMediator {
         Usuario juan = new Usuario("Juan", sala);
         Usuario lucia = new Usuario("Lucía", sala);
 
-        ana.enviar("¡Hola a todos!");
+        ana.enviar("Holaaaaa");
     }
 }
